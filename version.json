@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "zip_url": "https://raw.githubusercontent.com/brenobritto70-bit/construa-cia-updates/main/construa_update.zip",
-  "zip_sha256": "b4f3e98612873916e9a1f19c8e42906c75717f6613c098c06ff89edf91bdac79",
-  "notes": "Corrige abertura em modo app quando Chrome/Edge nao sao encontrados nas pastas padrao (agora tambem procura no registro do Windows e registra o motivo no log). Prepara atualizador automatico."
+  "zip_sha256": "b332adb1bdbb51974f4df7ac5e60249bb545ff75e174c74c95b50ebf1513adfa",
+  "notes": "Janela nativa (pywebview), icones no menu e nas telas de cadastro, remove telas mortas, corrige timeout de impressao."
 }
