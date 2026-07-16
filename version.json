@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "zip_url": "https://raw.githubusercontent.com/brenobritto70-bit/construa-cia-updates/main/construa_update.zip",
-  "zip_sha256": "b332adb1bdbb51974f4df7ac5e60249bb545ff75e174c74c95b50ebf1513adfa",
-  "notes": "Janela nativa (pywebview), icones no menu e nas telas de cadastro, remove telas mortas, corrige timeout de impressao."
+  "zip_sha256": "54a8a7fb7d23059198a6c7d60d397055d49d3991fbdbf20d47b26d90d8d313a0",
+  "notes": "Adiciona icone proprio do app (Windows e favicon)."
 }
