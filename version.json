@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "zip_url": "https://raw.githubusercontent.com/brenobritto70-bit/construa-cia-updates/main/construa_update.zip",
-  "zip_sha256": "54a8a7fb7d23059198a6c7d60d397055d49d3991fbdbf20d47b26d90d8d313a0",
-  "notes": "Adiciona icone proprio do app (Windows e favicon)."
+  "zip_sha256": "9bc178ea129a4e414b3b27ad62259f804c139f9d4055a7bda62f1aa632490284",
+  "notes": "Corrige busca no caixa: produtos com codigo de barras cadastrado com um digito a menos agora sao encontrados mesmo bipando o codigo completo."
 }
