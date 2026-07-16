@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "zip_url": "https://raw.githubusercontent.com/brenobritto70-bit/construa-cia-updates/main/construa_update.zip",
-  "zip_sha256": "9bc178ea129a4e414b3b27ad62259f804c139f9d4055a7bda62f1aa632490284",
-  "notes": "Corrige busca no caixa: produtos com codigo de barras cadastrado com um digito a menos agora sao encontrados mesmo bipando o codigo completo."
+  "zip_sha256": "b416f76a7a7a0d101a822f2712b66865f492205192c2bc17b8e8a80ba26f9d7d",
+  "notes": "Importacao de XML agora confere o digito verificador do codigo de barras, nao so o tamanho - evita cadastrar codigo de barras incompleto vindo de nota fiscal com erro."
 }
