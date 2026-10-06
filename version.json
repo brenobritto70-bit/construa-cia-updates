@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "zip_url": "https://raw.githubusercontent.com/brenobritto70-bit/construa-cia-updates/main/construa_update.zip",
-  "zip_sha256": "b416f76a7a7a0d101a822f2712b66865f492205192c2bc17b8e8a80ba26f9d7d",
-  "notes": "Importacao de XML agora confere o digito verificador do codigo de barras, nao so o tamanho - evita cadastrar codigo de barras incompleto vindo de nota fiscal com erro."
+  "zip_sha256": "2298bca7a4763a452e8148bf05b516cab5d4dfe97923ceaa56e2a3a88be59780",
+  "notes": "Corrige o codigo de barras vindo da nota fiscal (nao usa mais o codigo do fornecedor), campo de barras editavel na previa da nota, e lista de codigos suspeitos em Configuracoes > Diagnostico."
 }
